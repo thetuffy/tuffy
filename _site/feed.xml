@@ -1,86 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
-		<title>site name</title>
-		<description>description</description>
-		<link>site url</link>
-		<atom:link href="site url/feed.xml" rel="self" type="application/rss+xml" />
+		<title>Tuffy</title>
+		<description>Dogs are not our whole life, but they make our lives whole</description>
+		<link>http://tuffytheangel.com/</link>
+		<atom:link href="http://tuffytheangel.com//feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>A Life of Walt Disney</title>
-				
-				
-					<description>Walter Elias Disney was an American entrepreneur, cartoonist, animator, voice actor, and film producer. As a prominent...</description>
-				
-				<pubDate>Mon, 15 Dec 2014 01:00:00 +0000</pubDate>
-				<link>site url/a-life-of-walt-disney</link>
-				<guid isPermaLink="true">site url/a-life-of-walt-disney</guid>
-			</item>
-		
-			<item>
-				<title>Mickey Mouse</title>
-				
-				
-					<description>Mickey Mouse is a funny animal cartoon character and the official mascot of...</description>
-				
-				<pubDate>Fri, 28 Nov 2014 01:00:00 +0000</pubDate>
-				<link>site url/mickey-mouse</link>
-				<guid isPermaLink="true">site url/mickey-mouse</guid>
-			</item>
-		
-			<item>
-				<title>Television and later films</title>
+				<title>You Brought Heaven Here</title>
 				
 				
 					<description>Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was...</description>
 				
-				<pubDate>Fri, 16 Dec 1983 01:00:00 +0000</pubDate>
-				<link>site url/television</link>
-				<guid isPermaLink="true">site url/television</guid>
+				<pubDate>Wed, 15 Oct 2014 01:00:00 +0000</pubDate>
+				<link>http://tuffytheangel.com//You%20Brought%20Heaven%20Here</link>
+				<guid isPermaLink="true">http://tuffytheangel.com//You%20Brought%20Heaven%20Here</guid>
 			</item>
 		
 			<item>
-				<title>Color films</title>
-				
-				
-					<description>Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was...</description>
-				
-				<pubDate>Fri, 18 Nov 1932 01:00:00 +0000</pubDate>
-				<link>site url/color-films</link>
-				<guid isPermaLink="true">site url/color-films</guid>
-			</item>
-		
-			<item>
-				<title>Comics</title>
-				
-				
-					<description>Mickey first appeared in comics after he had appeared in 15 commercially successful animated shorts and was easily recognized by ...</description>
-				
-				<pubDate>Mon, 13 Jan 1930 01:00:00 +0000</pubDate>
-				<link>site url/comics</link>
-				<guid isPermaLink="true">site url/comics</guid>
-			</item>
-		
-			<item>
-				<title>Black and white films</title>
-				
-				
-					<description>In Mickey&#39;s early films he was often characterized not as a hero, but as an ineffective young suitor to Minnie Mouse...</description>
-				
-				<pubDate>Thu, 28 Mar 1929 01:00:00 +0000</pubDate>
-				<link>site url/black-and-white-films</link>
-				<guid isPermaLink="true">site url/black-and-white-films</guid>
-			</item>
-		
-			<item>
-				<title>Mickey Mouse&#39;s Debut</title>
+				<title>We Only Part To Meet Again</title>
 				
 				
 					<description>Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal...</description>
 				
-				<pubDate>Sun, 18 Nov 1928 01:00:00 +0000</pubDate>
-				<link>site url/debut</link>
-				<guid isPermaLink="true">site url/debut</guid>
+				<pubDate>Wed, 15 Oct 2014 01:00:00 +0000</pubDate>
+				<link>http://tuffytheangel.com//We%20Only%20Part%20To%20Meet%20Again</link>
+				<guid isPermaLink="true">http://tuffytheangel.com//We%20Only%20Part%20To%20Meet%20Again</guid>
+			</item>
+		
+			<item>
+				<title>The Lost Battle</title>
+				
+				
+					<description>In Mickey&#39;s early films he was often characterized not as a hero, but as an ineffective young suitor to Minnie Mouse...</description>
+				
+				<pubDate>Wed, 15 Oct 2014 01:00:00 +0000</pubDate>
+				<link>http://tuffytheangel.com//The%20Lost%20Battle</link>
+				<guid isPermaLink="true">http://tuffytheangel.com//The%20Lost%20Battle</guid>
+			</item>
+		
+			<item>
+				<title>My Smile</title>
+				
+				
+					<description>Mickey first appeared in comics after he had appeared in 15 commercially successful animated shorts and was easily recognized by ...</description>
+				
+				<pubDate>Wed, 15 Oct 2014 01:00:00 +0000</pubDate>
+				<link>http://tuffytheangel.com//My%20Smile</link>
+				<guid isPermaLink="true">http://tuffytheangel.com//My%20Smile</guid>
+			</item>
+		
+			<item>
+				<title>Life of Tuffy</title>
+				
+				
+					<description>Walter Elias Disney was an American entrepreneur, cartoonist, animator, voice actor, and film producer. As a prominent...</description>
+				
+				<pubDate>Wed, 15 Oct 2014 01:00:00 +0000</pubDate>
+				<link>http://tuffytheangel.com//Life%20of%20Tuffy</link>
+				<guid isPermaLink="true">http://tuffytheangel.com//Life%20of%20Tuffy</guid>
+			</item>
+		
+			<item>
+				<title>First Winter Dress</title>
+				
+				
+					<description>Mickey Mouse is a funny animal cartoon character and the official mascot of...</description>
+				
+				<pubDate>Wed, 15 Oct 2014 01:00:00 +0000</pubDate>
+				<link>http://tuffytheangel.com//First%20Winter%20Dress</link>
+				<guid isPermaLink="true">http://tuffytheangel.com//First%20Winter%20Dress</guid>
+			</item>
+		
+			<item>
+				<title>Family Member</title>
+				
+				
+					<description>Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was...</description>
+				
+				<pubDate>Wed, 15 Oct 2014 01:00:00 +0000</pubDate>
+				<link>http://tuffytheangel.com//Family%20Member</link>
+				<guid isPermaLink="true">http://tuffytheangel.com//Family%20Member</guid>
 			</item>
 		
 	</channel>
