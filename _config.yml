@@ -10,11 +10,11 @@ relative_permalinks: true
 # Setup
 timezone:            your timezone # eg. Asia/Kathmandu
 locale:              your locale language # eg. en_us
-name:				         site name
-title:               site title
+name:				         Tuffy
+title:               Tuffy
 tagline:             'tagline'
 description:         'description'
-url:                 site url
+url:                 http://tuffytheangel.com/
 rss:                 rss feed url
 baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
