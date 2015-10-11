@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "My Smile"
+date:   2014-10-15 01:00:00
+date:   2014-10-15 01:00:00
+excerpt: "Mickey first appeared in comics after he had appeared in 15 commercially successful animated shorts and was easily recognized by ..."
+categories: history
+tags:  mickey
+image:
+  feature: photo6.jpg
+  topPosition: -100px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+Source: [Tuffy](https://tuffytheangel.com)
+
+Those special memories of you will always bring a smile .. if only I could have you back for just a little while….
+
+The fact that u are no longer here will always cause me pain but you are forever in my heart until we meet again….

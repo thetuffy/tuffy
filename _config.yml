@@ -10,10 +10,10 @@ relative_permalinks: true
 # Setup
 timezone:            your timezone # eg. Asia/Kathmandu
 locale:              your locale language # eg. en_us
-name:				         Tuffy
+name:				         Tuffy The Angel
 title:               Tuffy
-tagline:             'tagline'
-description:         'description'
+tagline:             'My Loyal Friend'
+description:         'Dogs are not our whole life, but they make our lives whole'
 url:                 http://tuffytheangel.com/
 rss:                 rss feed url
 baseurl:             '/'
@@ -25,8 +25,8 @@ icon:                your site icon path # /assets/img/icon.png [best 300px X 30
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
-  name:           	 your name
-  url:            	 your site url
+  name:           	 Rekha
+  url:            	 http://tuffytheangel.com/
   facebook:          username
   twitter:           username
   google_plus:       username
