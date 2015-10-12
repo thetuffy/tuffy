@@ -18,6 +18,6 @@ Source: [Tuffy](https://tuffytheangel.com)
 You have a cute little nose And happy wagging tail.You lick me when I come home.You bark because there's mail. You sleep in my bed And think my shoe is a toy.Sweet little puppy..You fill me with joy Oh, little puppy ,So loyal and true
 
 
-<blockquote class="largeQuote">“Don't Stress Over Anything You Can't Change.” <br/>- Mickey Mouse</blockquote>
+<blockquote class="largeQuote">“If having a soul means being able to feel love and loyalty and gratitude, then animals are better off than a lot of humans.” <br/>- Rekha</blockquote>
 
 I just want you to tell you How much I love you !
